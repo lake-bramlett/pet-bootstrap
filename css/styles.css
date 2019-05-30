@@ -1,0 +1,13 @@
+.card {
+  width: 400px;
+  height: 400px;
+  padding: 10px;
+}
+
+.card div.name {
+  display: inline;
+}
+
+.card div.photobox {
+  display: inline;
+}
